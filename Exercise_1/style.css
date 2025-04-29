@@ -19,6 +19,6 @@ body {
 }
 
 .box-header {
-    background-color: pink;
-    width: 250px;
+    position: absolute;
+    background-color: #f6108f;
 }
